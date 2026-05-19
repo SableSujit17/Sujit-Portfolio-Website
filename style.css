@@ -258,19 +258,6 @@ a:hover {
   background-color: var(--color-accent);
   color: var(--color-bg);
 }
-.resume-link {
-  display: inline-block;
-  margin-bottom: 1.2rem;
-  color: var(--color-text-muted);
-  font-size: var(--font-size-sm);
-  letter-spacing: var(--letter-spacing-loose);
-  text-transform: uppercase;
-  transition: color var(--transition-fast);
-}
-
-.resume-link:hover {
-  color: var(--color-accent);
-}
 
 /* Mobile */
 @media (max-width: 640px) {
